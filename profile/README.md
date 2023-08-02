@@ -16,7 +16,7 @@
 
 <br /><br />
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
@@ -26,3 +26,9 @@
 <img align="left" alt="AWS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+### Coming features
+- [ ] Multicloud: ~AWS~, GCP, Azure
+- [ ] Instances: ~CPU~, GPU, FPGA
+- [ ] Container management: ~ECS~, Kubernetes
+- [ ] Networking: ~REST~, gRPC
