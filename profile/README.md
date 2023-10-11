@@ -1,5 +1,3 @@
-# .github
-
 ### Repositories
 - :robot: Ops
   - [Terraform AWS modules](https://github.com/vistimi/terraform-aws-microservice) with tests
